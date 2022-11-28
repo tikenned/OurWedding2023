@@ -24,6 +24,7 @@
       </head>
 
     <body>
+      <header>
       <ul id="dropdownstory" class="dropdown-content">
         <li><a href="#!">Bride and Groom</a></li>
         <li><a href="#!">Bridal Party</a></li>
@@ -36,6 +37,7 @@
         <li class="divider"></li>
         <li><a href="#!">Things to Do</a></li>
       </ul>
+      <div class="navbar-fixed">
       <nav class="nav-extended">
         <div class = "teal darken-4 nav-wrapper">
           <a href = "#" class = "brand-logo center">Madelyn & Timothy</a>
@@ -50,5 +52,7 @@
           </ul>
         </div>
       </nav>
+      </div>
+      </header>
         <!--JavaScript at end of body for optimized loading
       <script type="text/javascript" src="js/materialize.min.js"></script>-->

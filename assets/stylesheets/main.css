@@ -53,12 +53,35 @@ table {
 	font-style: italic;
  }
 
+ 
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+
+  h1 {
+    font-family: 'MetropolitanoRegular', Calibri, Trebuchet, sans-serif;
+	font-size: 32px;
+}
+
  nav {
 	/*https://stackoverflow.com/questions/35552708/is-materialize-navbar-height-adjustment-possible*/
 	font-family: 'MetropolitanoRegular';
 	font-style: normal;
 	line-height: 60px;
  }
+
+ footer {
+	font-family: 'CursiveSerifBook';
+	font-weight: normal;
+	margin: 0;
+  }
 
 /*break*/
 /*
