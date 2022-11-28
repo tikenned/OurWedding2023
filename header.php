@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang = "en">
+<html>
     <head>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>  
       <meta charset="UTF-8">
@@ -51,17 +50,5 @@
           </ul>
         </div>
       </nav>
-      <div class="intro">
-        <h1> Welcome to our Wedding!</h1>
-        <h2 class="excited">We are getting married in Chicago! Learn about it here:</h2>
-        <br>
-        <h2>We would like you to arrive safely! Here are some options:</h2>
-        <br>
-        <h3>We also want some presents! Buy something <span class="highlight">ya jerk</span></h3>
-    </div>
         <!--JavaScript at end of body for optimized loading
       <script type="text/javascript" src="js/materialize.min.js"></script>-->
-    </body>
-    
-
-</html>
