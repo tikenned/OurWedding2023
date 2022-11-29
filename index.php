@@ -7,23 +7,30 @@ require_once "header.php";
     <main>
       <div class="container">
       <div class="card-panel teal darken-4">
-      <span class="white-text"> 
-        <h1 class="center-align flow-text"> Welcome to our Wedding! </h1>
-        <br>
-        We are getting married in Chicago! Learn about it here:
-        
-        We would like you to arrive safely! Here are some options:
-        
-        We also want some presents! Buy something ya jerk
+      <span class="white-text center-align"> 
+        <h1> Welcome to our Wedding! </h1>
+        <br><br><br>
+        <p class="flow-text">We are getting married in Chicago!</p>
       </span>
+      
+     
+    </div>
+    </div>
+     
       <div class="card">
       <div class="card-image">
       <img src="assets/images/engagement/572A9622.jpg">
       </div>
       </div>
+     <!--
+    <div class="carousel">
+      <a class="carousel-item" href="#one!"><img src="assets/images/engagement/572A9622.jpg"></a>
+      <a class="carousel-item" href="#two!"><img src="https://lorempixel.com/250/250/nature/2"></a>
+      <a class="carousel-item" href="#three!"><img src="https://lorempixel.com/250/250/nature/3"></a>
+      <a class="carousel-item" href="#four!"><img src="https://lorempixel.com/250/250/nature/4"></a>
+      <a class="carousel-item" href="#five!"><img src="https://lorempixel.com/250/250/nature/5"></a>
     </div>
-    </div>
-    </div>
+     -->
     </main>
         <!--JavaScript at end of body for optimized loading
       <script type="text/javascript" src="js/materialize.min.js"></script>-->

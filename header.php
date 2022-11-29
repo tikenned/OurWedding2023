@@ -32,7 +32,7 @@
         <li><a href="#!">Family</a></li>
       </ul>
       <ul id="dropdownlogistics" class="dropdown-content">
-        <li><a href="#!">Arrival and Lodging</a></li>
+        <li><a href="logistics.php">Arrival and Lodging</a></li>
         <li><a href="#!">Ceremony and Reception</a></li>
         <li class="divider"></li>
         <li><a href="#!">Things to Do</a></li>
@@ -40,7 +40,7 @@
       <div class="navbar-fixed">
       <nav class="nav-extended">
         <div class = "teal darken-4 nav-wrapper">
-          <a href = "#" class = "brand-logo center">Madelyn & Timothy</a>
+          <a href = "index.php" class = "brand-logo center">Madelyn & Timothy</a>
           <ul id = "nav-mobile" class="left hide-on-med-and-down">
             <li><a class="dropdown-trigger" href="#!" data-target="dropdownstory">Our Story<i class="material-icons right">arrow_drop_down</i></a></li>
             <li><a class="dropdown-trigger" href="#!" data-target="dropdownlogistics">Logistics<i class="material-icons right">arrow_drop_down</i></a></li>
