@@ -94,7 +94,10 @@ table {
   }
 
   /*styling for map classes, hover on zoom*/
-
+  .carousel .carousel-item {
+    width:300px !important;
+    min-height: 500px;
+}
   
 .map img {
 	width: 100%;
