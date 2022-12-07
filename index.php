@@ -6,10 +6,25 @@ require_once "header.php";
 
     <main>
       <div class="container">
-      <div class="card-panel teal darken-4">
+      <div class="card-panel deep-purple">
       <span class="white-text center-align"> 
         <h1> Welcome to our Wedding! </h1>
-        <br><br><br>
+        <br>
+        
+        <div class="row white">
+          <div class="col s1">
+            <i class="large material-icons grey">cake</i>
+          </div>
+          
+          <div class="col s1 orange">
+            <i class="large material-icons black">church</i>
+          </div>
+
+          <div class="col s1 red">
+            <i class="large material-icons black">liquor</i>
+          </div>
+        </div>
+        <br>
         <p class="flow-text">We are getting married in Chicago!</p>
       </span>
       

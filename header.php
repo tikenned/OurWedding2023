@@ -9,7 +9,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     
         <!--Import Google Icon Font-->
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
         <!--Import materialize.css
         <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>-->
 
@@ -21,6 +21,9 @@
         <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/metropolitano" type="text/css"/> 
         <title>Madelyn and Timothy - Welcome!</title>
         <script src="scripts.js"></script>
+          <!--JavaScript at end of body for optimized loading-->
+          <script type = "text/javascript" src = "https://code.jquery.com/jquery-2.1.1.min.js"></script>           
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
       </head>
 
     <body>
@@ -42,7 +45,7 @@
         <div class = "teal darken-4 nav-wrapper">
           <a href = "index.php" class = "brand-logo center">Madelyn & Timothy</a>
           <ul id = "nav-mobile" class="left hide-on-med-and-down">
-            <li><a class="dropdown-trigger" href="#!" data-target="dropdownstory">Our Story<i class="material-icons right">arrow_drop_down</i></a></li>
+            <li><a href="weddingParty.php">Our Story</a></li>
             <li><a class="dropdown-trigger" href="#!" data-target="dropdownlogistics">Logistics<i class="material-icons right">arrow_drop_down</i></a></li>
             <!--<li><a href="#">Logistics</a></li>-->
           </ul>
@@ -54,5 +57,4 @@
       </nav>
       </div>
       </header>
-        <!--JavaScript at end of body for optimized loading-->
-      <script type="text/javascript" src="js/materialize.min.js"></script>
+       
