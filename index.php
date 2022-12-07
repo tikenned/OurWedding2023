@@ -4,34 +4,29 @@ require_once "header.php";
 ?>
 <style><?php include 'assets/stylesheets/main.css'; ?></style>
 
-    <main>
-      <div class="container">
-      <div class="card-panel deep-purple">
-      <span class="white-text center-align"> 
-        <h1> Welcome to our Wedding! </h1>
-        <br>
-        
-        <div class="row white">
-          <div class="col s1">
-            <i class="large material-icons grey">cake</i>
-          </div>
-          
-          <div class="col s1 orange">
-            <i class="large material-icons black">church</i>
+  <main>
+
+    <div class="section">
+      <div class="row">
+        <span class="center-align flow-text">
+          <h1 class="grey-text text-darken-3"><b>We're getting married!</b></h1>
+          <h4 class="teal-text text-darken-4"><b>Saturday October 28, 2023</b></h4>
+          <p>3 o'clock in the afternoon</p>
+
+          <div class="row center">
+            <div class="col offset-s4 s4">
+              <i class="small material-icons teal-text text-lighten-4">train</i>
+              <i class="small material-icons teal-text text-lighten-4">church</i>
+              <i class="small material-icons teal-text text-lighten-4">cake</i>
+              <i class="small material-icons teal-text text-lighten-4">liquor</i>
+              <i class="small material-icons teal-text text-lighten-4">music_note</i>
+            </div>
           </div>
 
-          <div class="col s1 red">
-            <i class="large material-icons black">liquor</i>
-          </div>
-        </div>
-        <br>
-        <p class="flow-text">We are getting married in Chicago!</p>
-      </span>
-      
-     
+          <p>St. Alphonsus Catholic Church | Chicago, IL</p>
+        </span>
+      </div>
     </div>
-    </div>
-     
     
      <!----->
     <div class="carousel">
@@ -42,15 +37,17 @@ require_once "header.php";
       <a class="carousel-item" href="#five!"><img src="assets/images/engagement/572A9675.jpg"></a>
     </div>
 
+    <br/>
+
     <!--
     <div class="card">
       <div class="card-image">
       <img src="assets/images/engagement/572A9622.jpg">
       </div>
       </div>
-
      -->
-    </main>
+
+  </main>
 
 <?php
 require_once "footer.php";                

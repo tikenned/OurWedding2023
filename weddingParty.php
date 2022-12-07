@@ -32,39 +32,39 @@ left side blurb, right side photo
 
 
     <div class="row deep-purple">
-          <div class="col s6 m6 l6">
-            <div class="card">
-            <div class="card-image">
-              <img src="assets/images/weddingParty/headshot.jpg">
-            </div>
+      <div class="col s6 m6 l6">
+        <div class="card">
+        <div class="card-image">
+          <img src="assets/images/weddingParty/headshot.jpg">
+        </div>
+      </div>
+      </div>
+      
+      <div class="col s6">
+        <div class="card">
+          <div class="card-content teal darken-4">
+            <p class="center-align flow-text">This is some crap about Tim</p>
           </div>
-          </div>
-          
-          <div class="col s6">
-            <div class="card">
-              <div class="card-content teal darken-4">
-                <p class="center-align flow-text">This is some crap about Tim</p>
-              </div>
-            </div>
-          </div>
+        </div>
+      </div>
     </div> 
 
     <div class="row teal">
-          <div class="col s6 m6 l6">
-            <div class="card">
-            <div class="card-content teal darken-4">
-                <p class="center-align flow-text">This is some crap about Madelyn</p>
-              </div>
+      <div class="col s6 m6 l6">
+        <div class="card">
+        <div class="card-content teal darken-4">
+            <p class="center-align flow-text">This is some crap about Madelyn</p>
           </div>
-          </div>
-          
-          <div class="col s6">
-            <div class="card">
-            <div class="card-image">
-              <img src="assets/images/weddingParty/madelynRedDress.jpg">
-            </div>
-            </div>
-          </div>
+      </div>
+      </div>
+      
+      <div class="col s6">
+        <div class="card">
+        <div class="card-image">
+          <img src="assets/images/weddingParty/madelynRedDress.jpg">
+        </div>
+        </div>
+      </div>
     </div> 
      
 <?php
