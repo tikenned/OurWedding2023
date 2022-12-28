@@ -21,9 +21,6 @@
         <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/metropolitano" type="text/css"/> 
         <title>Madelyn and Timothy - Welcome!</title>
         <script src="scripts.js"></script>
-          <!--JavaScript at end of body for optimized loading-->
-          <script type = "text/javascript" src = "https://code.jquery.com/jquery-2.1.1.min.js"></script>           
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
       </head>
 
     <body>
