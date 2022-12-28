@@ -1,7 +1,7 @@
 /* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
+v2.0 | 20110126
+License: none (public domain)
+ */
 
 /*
 html, body, div, span, applet, object, iframe,
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-*/
+ */
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -54,48 +54,48 @@ table {
 	font-family: 'CursiveSerifBook', Calibri, Trebuchet, sans-serif;
 	font-weight: normal;
 	font-style: italic;
- }
-
- 
- body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-  }
-
-  main {
-    flex: 1 0 auto;
-  }
+}
 
 
-  h1, h2, p {
-    font-family: 'MetropolitanoRegular', Calibri, Trebuchet, sans-serif;
-  }
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
 
- nav {
+main {
+	flex: 1 0 auto;
+}
+
+
+h1, h2, p {
+	font-family: 'MetropolitanoRegular', Calibri, Trebuchet, sans-serif;
+}
+
+nav {
 	/*https://stackoverflow.com/questions/35552708/is-materialize-navbar-height-adjustment-possible*/
 	font-family: 'MetropolitanoRegular';
 	font-style: normal;
 	line-height: 60px;
 }
 
- footer {
+footer {
 	font-family: 'CursiveSerifBook';
 	font-weight: normal;
 	margin: 0;
-  }
-
-  /*styling for map classes, hover on zoom*/
-  .carousel .carousel-item {
-    width:300px !important;
-    min-height: 500px;
 }
-  
+
+/*styling for map classes, hover on zoom*/
+.carousel .carousel-item {
+	width:300px !important;
+	min-height: 500px;
+}
+
 .map img {
 	width: 100%;
 	transition: 1.0s all ease-in-out;
 }
-  
+
 .map:hover img {
 	transform: scale(1.2);
 }
@@ -103,25 +103,25 @@ table {
 /*break*/
 /*
 h1 {
-    color: blue;
-    font-size: 32px;
-    text-align: center;
+	color: blue;
+	font-size: 32px;
+	text-align: center;
 }
 p {
-    color: darkmagenta;
-    font-size: 20px;
+	color: darkmagenta;
+	/*font-size: 20px;*/
 }
 .excited {
-    color: darkgreen;
-    font-size: 24px;
+	color: darkgreen;
+	font-size: 24px;
 }
 
 .highlight {
-    color: black;
-    font-size: 22px;
+	color: black;
+	font-size: 22px;
 }
 */
-  
- /*break*/
 
-  
+/*break*/
+
+
