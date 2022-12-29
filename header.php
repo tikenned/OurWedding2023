@@ -47,7 +47,7 @@
 	    <!--<li><a href="#">Logistics</a></li>-->
 	  </ul>
 	  <ul id = "nav-mobile" class="right hide-on-med-and-down">
-	    <li><a href="#">RSVP</a></li>
+	    <li><a href="rsvp.php">RSVP</a></li>
 	    <li><a href="registry.php">Registry</a></li>
 	  </ul>
 	</div>

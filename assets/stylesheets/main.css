@@ -32,7 +32,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: 1.5;
 }
 ol, ul {
 	list-style: none;
@@ -50,7 +50,7 @@ table {
 	border-spacing: 0;
 }
 
-.brand-logo {
+.brand-logo, .bridal-party-role, .wedding-date {
 	font-family: 'CursiveSerifBook', Calibri, Trebuchet, sans-serif;
 	font-weight: normal;
 	font-style: italic;
@@ -124,6 +124,3 @@ p {
 
 /*break*/
 
-.bridal-party-role {
-	color: red!important;
-}

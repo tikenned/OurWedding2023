@@ -4,11 +4,4 @@ $(document).ready(function (){
     $(".dropdown-trigger").dropdown({ hover: true });
     $('.carousel').carousel();
         
-  }); 
-/*
-  <script>
-  $(document).ready(function(){
-        $('#demo-carousel').carousel();
-      });
-  </script>
-  */
+}); 

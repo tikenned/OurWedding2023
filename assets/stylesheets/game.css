@@ -1,0 +1,49 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* main table */
+.snakeTable {
+  width: 210px;
+  height: 230px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  box-shadow: 0 0 1px 2px rgba(0,0,0,0.3);
+}
+@media only screen and (min-width: 768px) {
+  .snakeTable {
+    width: 420px;
+    height: 420px;
+  }
+}
+
+/* all boxes in the table */
+.box {
+  background: white;
+  border: solid 1px gray;
+  width: 10px;
+  height: 10px;
+}
+@media only screen and (min-width: 768px) {
+  .box {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+.food {
+  background: #bbdefb;
+  background-image: url("/assets/images/game/wedding_ring_icon.png");
+  background-size: contain;
+}
+
+.snake {
+  background: #4527a0;
+}
+

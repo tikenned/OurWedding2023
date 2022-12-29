@@ -7,28 +7,20 @@ require_once "header.php";
   <main>
 
     <div class="section">
-      <div class="row">
-        <span class="center-align flow-text">
+      <div class="row center">
+        <span class="center-align">
           <h1 class="grey-text text-darken-3"><b>We're getting married!</b></h1>
-          <h4 class="teal-text text-darken-4"><b>Saturday October 28, 2023</b></h4>
+          <h4 class="teal-text text-darken-4 wedding-date"><b>Saturday October 28, 2023</b></h4>
           <p>3 o'clock in the afternoon</p>
-
-          <div class="row center">
-            <div class="col offset-s4 s4">
-              <i class="small material-icons teal-text text-lighten-4">train</i>
-              <i class="small material-icons teal-text text-lighten-4">church</i>
-              <i class="small material-icons teal-text text-lighten-4">cake</i>
-              <i class="small material-icons teal-text text-lighten-4">liquor</i>
-              <i class="small material-icons teal-text text-lighten-4">music_note</i>
-            </div>
-          </div>
-
-          <p>St. Alphonsus Catholic Church | Chicago, IL</p>
+          <p><a href="https://www.stalphonsuschicago.org/">St. Alphonsus Catholic Church</a> | Chicago, IL</p>
         </span>
+      </div>
+
+      <div class="row center">
+    <image height=150 src="/assets/images/flowers/purple_flowers_long_3.png"/>
       </div>
     </div>
     
-     <!----->
     <div class="carousel">
       <a class="carousel-item" href="#one!"><img src="assets/images/engagement/L1120698.jpg"></a>
       <a class="carousel-item" href="#two!"><img src="assets/images/engagement/572A9654.jpg"></a>
@@ -38,14 +30,6 @@ require_once "header.php";
     </div>
 
     <br/>
-
-    <!--
-    <div class="card">
-      <div class="card-image">
-      <img src="assets/images/engagement/572A9622.jpg">
-      </div>
-      </div>
-     -->
 
   </main>
 
