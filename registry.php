@@ -15,6 +15,9 @@ require_once "header.php";
 	  <p>In the meantime, if you'd like to contribute to our 2023 Chicago Marathon fundraising for <a href="https://www.missionola.com/">Mission of Our Lady of the Angels food pantry</a>, please feel free :)</p>
 
       	</div>
+      <div class="row center">
+    <image height=150 src="/assets/images/flowers/purple_flowers_square_2.png"/>
+      </div>
       </div>
       <div class="row center">
 

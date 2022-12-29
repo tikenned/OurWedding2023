@@ -15,8 +15,11 @@ require_once "header.php";
 	  <p>In the meantime, enjoy this homemade wedding game!</p>
 
 	  <p>Use the arrow keys to collect the wedding rings.</p>
-
 	  <br/>
+
+        <div class="row center">
+            <image height=150 src="/assets/images/flowers/purple_flowers_square_1.png"/>
+        </div>
 
 	  <h3 class="score"></h3>
 	  <section class="snakeTable"></section>
