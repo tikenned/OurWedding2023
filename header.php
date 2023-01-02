@@ -1,5 +1,15 @@
 <html>
     <head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-7PPTGD0FHQ"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-7PPTGD0FHQ');
+	</script>
+
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>  
       <meta charset="UTF-8">
 	<!-- Compiled and minified CSS -->
