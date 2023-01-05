@@ -47,6 +47,7 @@ document.addEventListener("keydown", function(e) {
 // start game
 function startSnake() {
   results.innerHTML = "";
+  score.innerHTML = "0 points";
   snake.init();
   snake.time = 1;
   renderSnake();
@@ -130,7 +131,8 @@ function hitFood() {
     randomFood();
     snake.food++;
     snake.score += 1;
-    score.innerHTML = snake.score + " points";
+    if(snake.score == 1) {score.innerHTML = snake.score + " point";}
+    else {score.innerHTML = snake.score + " points";}
     // increase speed
     clearInterval(setInt);
     snake.interval = snake.interval - snake.interval/40;
@@ -327,6 +329,12 @@ function enableScroll(){
     document.body.removeEventListener('touchmove', preventDefault, { passive: false });
 }
 disableScroll();
+
+window.addEventListener("keydown", function(e) {
+    if(["Space","ArrowUp","ArrowDown","ArrowLeft","ArrowRight"].indexOf(e.code) > -1) {
+        e.preventDefault();
+    }
+}, false);
 
 // https://www.theodinproject.com/courses/javascript-and-jquery/lessons/jquery-and-the-dom
 
