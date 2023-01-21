@@ -16,7 +16,10 @@ require_once "header.php";
           <p>3 o'clock in the afternoon</p>
           <p><a href="https://www.stalphonsuschicago.org/">St. Alphonsus Catholic Church</a> | Chicago, IL</p>
         </span>
+
+        <p id="countdown"></p>
       </div>
+
 
       <div class="row center">
     <image height=150 src="assets/images/flowers/purple_flowers_long_3.png"/>

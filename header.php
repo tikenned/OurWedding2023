@@ -31,16 +31,15 @@
 	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/metropolitano" type="text/css"/> 
 	<title>Madelyn and Timothy - Welcome!</title>
 	<script src="scripts.js"></script>
+	<script src="countdown.js"></script>
       </head>
 
 	  
 	<body>
       <header>
-      <ul id="dropdownstory" class="dropdown-content">
-	<li><a href="#!">Bride and Groom</a></li>
-	<li><a href="#!">Bridal Party</a></li>
-	<li class="divider"></li>
-	<li><a href="#!">Family</a></li>
+      <ul id="dropdownStory" class="dropdown-content">
+	<li><a href="ourStory.php">Bride & Groom</a></li>
+	<li><a href="weddingParty.php">Bridal Party</a></li>
       </ul>
       <ul id="dropdownlogistics" class="dropdown-content">
 	<li><a href="logistics.php">Arrival & Lodging</a></li>
@@ -54,7 +53,7 @@
 	  <a href="index.php" class="brand-logo center hide-on-small-only">Madelyn & Timothy</a>
 	  <a href="index.php" class="brand-logo center hide-on-med-and-up show-on-small">M & T</a>
 	  <ul id="nav-mobile" class="left">
-	    <li><a href="weddingParty.php">Our Story</a></li>
+	    <li><a class="dropdown-trigger" href="#!" data-target="dropdownStory">Our Story<i class="material-icons right">arrow_drop_down</i></a></li>
 	    <li><a class="dropdown-trigger" href="#!" data-target="dropdownlogistics">Logistics<i class="material-icons right">arrow_drop_down</i></a></li>
 	  </ul>
 	  <ul id="nav-mobile" class="right">

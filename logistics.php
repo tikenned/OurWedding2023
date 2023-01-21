@@ -52,11 +52,42 @@ require_once "header.php";
 	  <br/>
 
           <div class="row center">
+              <image height=150 src="/assets/images/flowers/purple_flowers_square_2.png"/>
+          </div>
+
+          <h4 class="grey-text text-darken-3">Lodging</h4>
+	  <a href="https://www.hotelversey.com/">
+	  	<img src="assets/images/hotels/hotel_versey_room.jpeg" width="50%" style="border-radius:20px"></img>
+          	<h5 class="teal-text text-darken-4 wedding-date"><b>Hotel Versey</b></h5>
+          </a>
+	  <ul>
+	      <li>30 room hotel block "Nelson & Kennedy" - Kings and Doubles</li>
+	      <li><a href="https://goo.gl/maps/p5xTv1AXLAXQir9r6">644 W Diversey Pkwy, Chicago, IL 60614</a></li>
+	      <li>Average cost: $179-$199/night</li>
+	      <li>(773) 525-7010</li>
+          </ul>
+
+	  <br/>
+
+	  <a href="https://www.willowshotelchicago.com/">
+	  	<img src="assets/images/hotels/willows_hotel_entrance.jpeg" width="50%" style="border-radius:20px"></img>
+          	<h5 class="teal-text text-darken-4 wedding-date"><b>Willows Hotel</b></h5>
+          </a>
+	  <ul>
+	      <li>30 room hotel block "Nelson & Kennedy" - Kings and Doubles</li>
+	      <li><a href="https://goo.gl/maps/qmQQHyxxSE2bkq5f6">555 W Surf St, Chicago, IL 60657</a></li>
+	      <li>Average cost: $200/night</li>
+	      <li>(773) 528-8400</li>
+          </ul>
+
+	  <br/>
+
+          <div class="row center">
               <image height=150 src="/assets/images/flowers/purple_flowers_square_1.png"/>
           </div>
 
           <h4 class="grey-text text-darken-3">Arriving to Chicago</h4>
-          <h4 class="teal-text text-darken-4 wedding-date"><b>Plane</b></h4>
+          <h5 class="teal-text text-darken-4 wedding-date"><b>Plane</b></h5>
 	  <p><b>O'Hare International Airport</b></p>
 	  <ul>
 	     <li>Take the Blue Line "L" train from Terminal 2</li>
@@ -78,11 +109,12 @@ require_once "header.php";
 	     <li>Arrive at Hotel Versey (corner of Clark & Diversey)</li>
 	  </ul>          
 
-          <h4 class="teal-text text-darken-4 wedding-date"><b>Train</b></h4>
+          <h5 class="teal-text text-darken-4 wedding-date"><b>Train</b></h5>
 	  <p><b>Chicago Union Station</b></p>
 
-          <h4 class="teal-text text-darken-4 wedding-date"><b>Automobile</b></h4>
+          <h5 class="teal-text text-darken-4 wedding-date"><b>Automobile</b></h5>
           <p>test</p>
+
 
 
         </div>
