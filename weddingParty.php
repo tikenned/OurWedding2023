@@ -108,7 +108,7 @@ left side blurb, right side photo
                     <h3>Alexandria</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Maid of Honor</h5>
 		    <p>
-                   Thestral dirigible plums, Viktor Krum hexed memory charm Animagus Invisibility Cloak three-headed Dog. Half-Blood Prince Invisibility Cloak cauldron cakes, hiya Harry! Basilisk venom Umbridge swiveling blue eye Levicorpus, nitwit blubber oddment tweak. Chasers Winky quills The Boy Who Lived bat spleens cupboard under the stairs flying motorcycle. Sirius Black Holyhead Harpies, you’ve got dirt on your nose. Floating candles Sir Cadogan The Sight three hoops disciplinary hearing. Grindlewald pig’s tail Sorcerer's Stone biting teacup. Side-along dragon-scale suits Filch 20 points, Mr. Potter.</p>
+Dr. Alexandria (Alex) Viegut has been Madelyn's best friend since meeting freshman year at Notre Dame band camp. She has a PhD in Educational Psychology, is an Assistant Professor at the University of Wisconsin - Eau Claire, and is an expert in strategies for teaching math concepts to kids. Alex is incredibly loving and hard-working, and she's definitely a morning person! Her favorite activities include reading, going for nature runs, and drinking Diet Coke.
                    </p>
                 </div>
               </div>
@@ -133,7 +133,7 @@ left side blurb, right side photo
                     <h3>Nicole</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Bridesmaid</h5>
 		    <p>
-                   Thestral dirigible plums, Viktor Krum hexed memory charm Animagus Invisibility Cloak three-headed Dog. Half-Blood Prince Invisibility Cloak cauldron cakes, hiya Harry! Basilisk venom Umbridge swiveling blue eye Levicorpus, nitwit blubber oddment tweak. Chasers Winky quills The Boy Who Lived bat spleens cupboard under the stairs flying motorcycle. Sirius Black Holyhead Harpies, you’ve got dirt on your nose. Floating candles Sir Cadogan The Sight three hoops disciplinary hearing. Grindlewald pig’s tail Sorcerer's Stone biting teacup. Side-along dragon-scale suits Filch 20 points, Mr. Potter.</p>
+Nicole has been a close friend of Madelyn since meeting in Badin Hall freshman year of college (fun fact: they lived in the same hallway for 7 consequetive years!). Nicole is an aspiring Physician's Assistant with a speciality of pediatric orthopedics. She LOVES all things "dogs", is a master organizer of friend gatherings, and is amazingly athletically talented (she's also running the Chicago Marathon in 2023). She's a big fan of show tunes, and learned how to play the trumpet in just one year before successfully joining the Notre Dame Marching Band!
 		   </p>
                 </div>
               </div>
@@ -158,7 +158,7 @@ left side blurb, right side photo
                     <h3>Erica</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Bridesmaid</h5>
 		    <p>
-                   Thestral dirigible plums, Viktor Krum hexed memory charm Animagus Invisibility Cloak three-headed Dog. Half-Blood Prince Invisibility Cloak cauldron cakes, hiya Harry! Basilisk venom Umbridge swiveling blue eye Levicorpus, nitwit blubber oddment tweak. Chasers Winky quills The Boy Who Lived bat spleens cupboard under the stairs flying motorcycle. Sirius Black Holyhead Harpies, you’ve got dirt on your nose. Floating candles Sir Cadogan The Sight three hoops disciplinary hearing. Grindlewald pig’s tail Sorcerer's Stone biting teacup. Side-along dragon-scale suits Filch 20 points, Mr. Potter.</p>
+Erica is Tim's younger sister by 18 months, and is quickly becoming like a sister to Madelyn. Erica is incredibly musically talented, and is pursuing a career as a Broadway singer in New York City. Always entrepreneurial and passionate about wellness, Erica also teaches group fitness classes with a focus on self-empowerment. Erica's favorite activities include performing on stage, making french-press coffee, and shopping for the most glamorous dresses.
                    </p>
                 </div>
               </div>

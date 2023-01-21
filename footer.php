@@ -28,7 +28,7 @@
           -->
           <div class="footer-copyright">
             <div class="center container">
-            © 2022 Copyright Timothy Kennedy (with incredible help from Madelyn Nelson)
+            © 2023 Copyright Timothy Kennedy (with incredible help from Madelyn Nelson)
             
             </div>
           </div>

@@ -1,7 +1,7 @@
 <html>
 <?php
 #$title = "Php Header Footer";   
-require_once('protect-this.php');                
+#require_once('protect-this.php');                
 require_once "header.php";              
 ?>
 <style><?php include 'assets/stylesheets/main.css'; ?></style>
@@ -24,11 +24,15 @@ require_once "header.php";
     </div>
     
     <div class="carousel">
-      <a class="carousel-item" href="#one!"><img src="assets/images/engagement/L1120698.jpg"></a>
-      <a class="carousel-item" href="#two!"><img src="assets/images/engagement/572A9654.jpg"></a>
-      <a class="carousel-item" href="#three!"><img src="assets/images/engagement/L1120649.jpg"></a>
-      <a class="carousel-item" href="#four!"><img src="assets/images/engagement/L1120607.jpg"></a>
-      <a class="carousel-item" href="#five!"><img src="assets/images/engagement/572A9675.jpg"></a>
+      <a class="carousel-item" href="#"><img src="assets/images/engagement/L1120698.jpg"></a>
+      <a class="carousel-item" href="#"><img src="assets/images/engagement/IMG_4394.jpg"></a>
+      <a class="carousel-item" href="#"><img src="assets/images/engagement/572A9654.jpg"></a>
+      <!--<a class="carousel-item" href="#"><img src="assets/images/engagement/L1120649.jpg"></a>-->
+      <a class="carousel-item" href="#"><img src="assets/images/engagement/572A9675.jpg"></a>
+      <a class="carousel-item" href="#"><img src="assets/images/engagement/IMG_0608.JPEG"></a>
+      <a class="carousel-item" href="#"><img src="assets/images/engagement/IMG_1337.jpg"></a>
+      <a class="carousel-item" href="#"><img src="assets/images/engagement/L1120607.jpg"></a>
+      <a class="carousel-item" href="#"><img src="assets/images/engagement/IMG_1379.jpg"></a>
     </div>
 
     <br/>

@@ -40,6 +40,56 @@ require_once "header.php";
 ?>
 <style><?php include 'assets/stylesheets/main.css'; ?></style>
 
+
+    <div class="section">
+      <div class="row center">
+        <div class="col m8 offset-m2 s10 offset-s1">
+
+          <h3 class="grey-text text-darken-3">Arrival & Lodging</h3>
+
+          <p>We can't wait to celebrate with you!</p>
+
+	  <br/>
+
+          <div class="row center">
+              <image height=150 src="/assets/images/flowers/purple_flowers_square_1.png"/>
+          </div>
+
+          <h4 class="grey-text text-darken-3">Arriving to Chicago</h4>
+          <h4 class="teal-text text-darken-4 wedding-date"><b>Plane</b></h4>
+	  <p><b>O'Hare International Airport</b></p>
+	  <ul>
+	     <li>Take the Blue Line "L" train from Terminal 2</li>
+	     <li>Get off the train at the Diversey stop</li>
+	     <li>Get on the 76 Diversey bus toward the Nature Museum</li>
+	     <li>Get off the bus at the Clark stop</li>
+	     <li>Arrive at Hotel Versey (corner of Clark & Diversey)</li>
+	  </ul>          
+
+	  <br/>
+
+	  <p><b>Midway Airport</b></p>
+	  <ul>
+	     <li>Take the Orange Line "L" train from Terminal X</li>
+	     <li>Get off the train at the Harold Washington Library State / Van Buren stop</li>
+	     <li>Get on the Brown Line "L" train in any direction</li>
+	     <li>Get off the train at the Diversey stop</li>
+	     <li>Walk two blocks East to Clark</li>
+	     <li>Arrive at Hotel Versey (corner of Clark & Diversey)</li>
+	  </ul>          
+
+          <h4 class="teal-text text-darken-4 wedding-date"><b>Train</b></h4>
+	  <p><b>Chicago Union Station</b></p>
+
+          <h4 class="teal-text text-darken-4 wedding-date"><b>Automobile</b></h4>
+          <p>test</p>
+
+
+        </div>
+      </div>
+    </div>
+
+    <!--
     <main>
       <div class="container">
       <div class="card-panel teal darken-4">
@@ -85,6 +135,9 @@ require_once "header.php";
       </span>
     </div>
     </div>  
+    !-->
+
+
      <!--
       <div class="card">
       <div class="card-image">
