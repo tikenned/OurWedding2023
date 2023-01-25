@@ -1,37 +1,4 @@
 <html>
-    <head>
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-7PPTGD0FHQ"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'G-7PPTGD0FHQ');
-	</script>
-
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>  
-      <meta charset="UTF-8">
-	<!-- Compiled and minified CSS -->
-	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-
-	<!-- Compiled and minified JavaScript -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-
-	<!--Import Google Icon Font-->
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
-	<!--Import materialize.css
-	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>-->
-
-      <!--Let browser know website is optimized for mobile-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<link rel="stylesheet" href="assets/stylesheets/main.css">
-
-	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/cursive" type="text/css"/> 
-	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/metropolitano" type="text/css"/> 
-	<title>Madelyn and Timothy - Welcome!</title>
-	<script src="scripts.js"></script>
-      </head>
 
 <?php
 #$title = "Php Header Footer";                   
@@ -85,7 +52,8 @@ left side blurb, right side photo
                     <h3>Timothy</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Groom</h5>
 		    <p>
-                   Thestral dirigible plums, Viktor Krum hexed memory charm Animagus Invisibility Cloak three-headed Dog. Half-Blood Prince Invisibility Cloak cauldron cakes, hiya Harry! Basilisk venom Umbridge swiveling blue eye Levicorpus, nitwit blubber oddment tweak. Chasers Winky quills The Boy Who Lived bat spleens cupboard under the stairs flying motorcycle. Sirius Black Holyhead Harpies, you’ve got dirt on your nose. Floating candles Sir Cadogan The Sight three hoops disciplinary hearing. Grindlewald pig’s tail Sorcerer's Stone biting teacup. Side-along dragon-scale suits Filch 20 points, Mr. Potter.</p>
+                   Tim is a proud graduate of the university whose colors are Maize and Blue and, more importantly, is leading its rivalry against Notre Dame with a 25–17–1 record. He works remotely as a Product Manager for a West Coast startup; if you’re surprised he doesn’t have ‘Engineer’ in his title anymore then join the club. He volunteers at St Alphonsus as a leader for praise worship in the Young Adult Ministry’s Spiritual team and as a catechist for 7th graders, in addition to serving as an elected member of the Local School Council for Lincoln Park High School. His favorite activities include biking around the neighborhood and going on city adventures via the CTA, running along the lakefront with pit stops at the grocery store, thrifting for the next seasonal outfit, and doing his darndest not to kill the plants gifted to him by Madelyn. He has no cats, but is open to learning new tricks himself.
+				   </p>
                 </div>
               </div>
             </div>
@@ -121,7 +89,10 @@ Dr. Alexandria (Alex) Viegut has been Madelyn's best friend since meeting freshm
                     <h3>Connor</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Best Man</h5>
 		    <p>
-                   Thestral dirigible plums, Viktor Krum hexed memory charm Animagus Invisibility Cloak three-headed Dog. Half-Blood Prince Invisibility Cloak cauldron cakes, hiya Harry! Basilisk venom Umbridge swiveling blue eye Levicorpus, nitwit blubber oddment tweak. Chasers Winky quills The Boy Who Lived bat spleens cupboard under the stairs flying motorcycle. Sirius Black Holyhead Harpies, you’ve got dirt on your nose. Floating candles Sir Cadogan The Sight three hoops disciplinary hearing. Grindlewald pig’s tail Sorcerer's Stone biting teacup. Side-along dragon-scale suits Filch 20 points, Mr. Potter.</p>
+                   Tim met Connor when starting as a freshman at Powers Catholic High School. Even then, he was self-aware enough to recognize that while he himself was pretty dorky, the kid with the dark hair and big words sitting dead-center front row for all the classes was a Grade-A nerd. After a consideration of competing against him, he figured that if he was going to be successful, he should stick around the most quality people he could find (this is true for all of Tim’s friends).
+				   </p>
+					<p>From sleepovers, to exchanges of ideas (growing from heated midnight text exchanges to snarky tweets to genuine discourse), to a shared love of the truly stupid, Connor has cemented himself as a permanent fixture in my life. I am inspired by his drive coupled with incredible strategy. When Connor forms a goal, he is not only tenacious about seeing it through, but applies himself to know exactly how to get there and sticks to it.
+</p>
                 </div>
               </div>
             </div>
@@ -146,7 +117,10 @@ Nicole has been a close friend of Madelyn since meeting in Badin Hall freshman y
                     <h3>Matt</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Groomsman</h5>
 		    <p>
-                   Thestral dirigible plums, Viktor Krum hexed memory charm Animagus Invisibility Cloak three-headed Dog. Half-Blood Prince Invisibility Cloak cauldron cakes, hiya Harry! Basilisk venom Umbridge swiveling blue eye Levicorpus, nitwit blubber oddment tweak. Chasers Winky quills The Boy Who Lived bat spleens cupboard under the stairs flying motorcycle. Sirius Black Holyhead Harpies, you’ve got dirt on your nose. Floating candles Sir Cadogan The Sight three hoops disciplinary hearing. Grindlewald pig’s tail Sorcerer's Stone biting teacup. Side-along dragon-scale suits Filch 20 points, Mr. Potter.</p>
+                   Tim met Matt during summer cross country conditioning before starting high school. At the time Tim was known as “Floppy Hair Kid” because of his blown-dry-do. Together with his extra strength sunglasses and penchant for burning out after trying to run with varsity for about 3 minutes, he was a certified dork and as such had a chip on his shoulder for the guy who was effortlessly keeping up with the big dogs at the track. He figured it was far smarter to train the way Matt trained, so be friends with him. The crossover with 5 out of 7 classes was the deal sealer. </p>
+
+<p>A late transfer to Michigan left Tim afraid of connecting with his friend after they each formed some new tribes, but thankfully after a year he got over it and started hanging out again. Despite Tim's performance as an excellent character witness to the United States Government (I lost my medal but trust me), Matt was detained from his next career step for a short time. That fourtunately meant an opportunity to catch up on quality time, a true gift from God. Matt’s commitment to everything is a triumph, keeping himself moving through every struggle. Tim is particularly impressed in Matt's committment to his running game, and cardiovascular system with the strength to pump water from a well. It inspires Tim to push harder than just logging miles to log them.
+</p>
                 </div>
               </div>
             </div>
@@ -158,7 +132,11 @@ Nicole has been a close friend of Madelyn since meeting in Badin Hall freshman y
                     <h3>Erica</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Bridesmaid</h5>
 		    <p>
-Erica is Tim's younger sister by 18 months, and is quickly becoming like a sister to Madelyn. Erica is incredibly musically talented, and is pursuing a career as a Broadway singer in New York City. Always entrepreneurial and passionate about wellness, Erica also teaches group fitness classes with a focus on self-empowerment. Erica's favorite activities include performing on stage, making french-press coffee, and shopping for the most glamorous dresses.
+Erica is Tim's younger sister by 18 months, and is quickly becoming like a sister to Madelyn. Erica is incredibly musically talented, and is pursuing a career as a Broadway singer in New York City. Always entrepreneurial and passionate about wellness, Erica also teaches group fitness classes with a focus on self-empowerment. Erica's favorite activities include performing on stage, making french-press coffee, and shopping for the most glamorous dresses.</p>
+
+<p>Ok that was Madelyn's take on Erica. Here's Tim's:</p>
+
+<p>Erica is Tim's younger sister and has always been a pain in the ass but he loves her anyway. Erica is a triple threat, a performer highly skilled at acting, singing, and dancing, consistently a key component to the success and entertainment of any show she is cast in. While Tim inheirited the sarcasm of the family, Erica lucked onto the goof genes. Her synergy with the silly and charisma provides her the gift of getting along with anyone she meets. Loyal, ambitious, and imaginative, she is always striving for her goals and is not afraid to pivot and hustle to accomplish what she sets her eyes on.</p>
                    </p>
                 </div>
               </div>
@@ -171,7 +149,10 @@ Erica is Tim's younger sister by 18 months, and is quickly becoming like a siste
                     <h3>Justin</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Groomsman</h5>
 		    <p>
-                   Thestral dirigible plums, Viktor Krum hexed memory charm Animagus Invisibility Cloak three-headed Dog. Half-Blood Prince Invisibility Cloak cauldron cakes, hiya Harry! Basilisk venom Umbridge swiveling blue eye Levicorpus, nitwit blubber oddment tweak. Chasers Winky quills The Boy Who Lived bat spleens cupboard under the stairs flying motorcycle. Sirius Black Holyhead Harpies, you’ve got dirt on your nose. Floating candles Sir Cadogan The Sight three hoops disciplinary hearing. Grindlewald pig’s tail Sorcerer's Stone biting teacup. Side-along dragon-scale suits Filch 20 points, Mr. Potter.</p>
+                   Tim met Justin when he started high school, but was nowhere NEAR cool enough to sit with the lanky, Justin Bieber (circa 2009) styled, easy-gabbing group that was the Powers Catholic soccer team. It wasn’t until the first years of college at UM-Flint that Tim worked with Justin on his physics homework. He noticed how hard Justin was working, and acing material that I was dropping. Rather than hold onto wounded pride, he decided to study with him regularly and improve as much as he could. When he said he wanted to find a place together in Ann Arbor when we transferred down, I figured I could keep going with it.</p>
+
+<p>This living together was transformative. Through pasta sauce splats on the fridge, rough semesters, a terrible roommate, multiple failed girlfriends, several subleases over the summers, he was the most steadfast partner through the years. Even more of a homebody than Tim, I ironically became the party-maker to take him out of the house, making him step outside the comfort zone and become outgoing. This allowed me to develop in a way continuing to the present day. After Justin’s own wedding, I couldn’t wait to find the right one for me.
+</p>
                 </div>
               </div>
             </div>

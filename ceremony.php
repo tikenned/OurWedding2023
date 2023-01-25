@@ -1,37 +1,4 @@
 <html>
-    <head>
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-7PPTGD0FHQ"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'G-7PPTGD0FHQ');
-	</script>
-
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>  
-      <meta charset="UTF-8">
-	<!-- Compiled and minified CSS -->
-	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-
-	<!-- Compiled and minified JavaScript -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-
-	<!--Import Google Icon Font-->
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
-	<!--Import materialize.css
-	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>-->
-
-      <!--Let browser know website is optimized for mobile-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<link rel="stylesheet" href="assets/stylesheets/main.css">
-
-	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/cursive" type="text/css"/> 
-	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/metropolitano" type="text/css"/> 
-	<title>Madelyn and Timothy - Welcome!</title>
-	<script src="scripts.js"></script>
-      </head>
 
 <?php
 #$title = "Php Header Footer";                   
@@ -85,8 +52,8 @@ require_once "header.php";
 	  </a>
           <p>Dinner & Dancing</p>
           <p>6:00pm - 11:00pm</p>
-
-
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11870.253227060708!2d-87.64824635!3d41.945234250000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd3ab4393d9e1%3A0xa269ceaba6687b72!2sChicago%20Theater%20Works!5e0!3m2!1sen!2sus!4v1674443654374!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	
       	</div>
       </div>
     </div>

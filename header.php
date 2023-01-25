@@ -1,5 +1,5 @@
 <html>
-        <head>
+       <head>
 	<!-- Google tag (gtag.js) -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-7PPTGD0FHQ"></script>
 	<script>
@@ -31,7 +31,6 @@
 	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/metropolitano" type="text/css"/> 
 	<title>Madelyn and Timothy - Welcome!</title>
 	<script src="scripts.js"></script>
-	<script src="countdown.js"></script>
       </head>
 
 	  
@@ -45,7 +44,7 @@
 	<li><a href="logistics.php">Arrival & Lodging</a></li>
 	<li><a href="ceremony.php">Ceremony & Reception</a></li>
 	<li class="divider"></li>
-	<li><a href="things_to_do.php">Things to Do</a></li>
+	<li><a href="thingsToDo.php">Things to Do</a></li>
       </ul>
 
       <nav class="side-nav">
