@@ -31,6 +31,7 @@
 	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/metropolitano" type="text/css"/> 
 	<title>Madelyn and Timothy - Welcome!</title>
 	<script src="scripts.js"></script>
+	<script src="countdown.js"></script>
       </head>
 
 	  
