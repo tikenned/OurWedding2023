@@ -18,11 +18,9 @@ require_once "header.php";
 
 			<h3 class="grey-text text-darken-3">City Attractions</h3>
 
-			<p>Chicago is a world-class city with many, <i>many</i>, possible ways to spend your time. Athletics and leisure, fine dining and local dives, historical institutions and innovative TODO, TODO</p>
+			<p>Chicago is a world-class city with many, <i>many</i>, possible ways to spend your time. Athletics and leisure, fine dining and local dives, historical institutions and innovation hubs... you can find it here.</p>
 
 			<a href="https://freetoursbyfoot.com/chicago-tours/book-chicago-tours/">https://freetoursbyfoot.com/chicago-tours/book-chicago-tours/</a>
-			<a href="https://www.lpzoo.org/visit/">https://www.lpzoo.org/visit/</a>
-
 
 		</div>
 	</div>

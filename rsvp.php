@@ -1,77 +1,89 @@
 <html>
-    <head>
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-7PPTGD0FHQ"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'G-7PPTGD0FHQ');
-	</script>
-
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>  
-      <meta charset="UTF-8">
-	<!-- Compiled and minified CSS -->
-	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-
-	<!-- Compiled and minified JavaScript -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-
-	<!--Import Google Icon Font-->
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
-	<!--Import materialize.css
-	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>-->
-
-      <!--Let browser know website is optimized for mobile-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<link rel="stylesheet" href="assets/stylesheets/main.css">
-
-	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/cursive" type="text/css"/> 
-	<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/metropolitano" type="text/css"/> 
-	<title>Madelyn and Timothy - Welcome!</title>
-	<script src="scripts.js"></script>
-      </head>
 
 <?php
 #$title = "Php Header Footer";                   
-require_once "header.php";              
+require_once "header.php";
 ?>
-<style><?php include 'assets/stylesheets/main.css'; ?></style>
-<style><?php include 'assets/stylesheets/game.css'; ?></style>
+<style>
+	<?php include 'assets/stylesheets/main.css'; ?>
+</style>
+<style>
+	<?php include 'assets/stylesheets/game.css'; ?>
+</style>
 
 
-    <div class="section">
-      <div class="row center">
-	<div class="col m8 offset-m2 s10 offset-s1">
+<div class="section">
+	<div class="row center">
+		<div class="col m6 offset-m3 s10 offset-s1">
 
-	  <h3 class="grey-text text-darken-3">We're still making our RSVP form :)</h3>
+			<h3 class="grey-text text-darken-3">RSVP</h3>
+			<p>We hope you are able to celebrate with us on our big day!</p>
 
-	  <p>In the meantime, enjoy this homemade wedding game!</p>
 
-	  <p>Use the arrow keys to collect the wedding rings.</p>
-	  <br/>
+			<div class="row">
+				<div class="input-field col s12">
+					<form id="fs-frm" name="basic-rsvp-form" accept-charset="utf-8" action="https://formspree.io/f/mzbqdjln" method="post">
+						<fieldset id="fs-frm-inputs">
 
-        <div class="row center">
-            <image height=150 src="/assets/images/flowers/purple_flowers_square_1.png"/>
-        </div>
+							<div class="row col s12">
+								<label for="full-name">Name(s)</label>
+								<input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+							</div>
 
-	  <h3 class="score"></h3>
-	  <section class="snakeTable"></section>
+							<div class="row col s12">
+								<label for="attending">Will you be attending?</label>
+								<select name="attending" id="attending" required="">
+									<option value="" selected="" disabled="">Select</option>
+									<option value="Yes">Yes, of course!</option>
+									<option value="No">No, only in spirit</option>
+								</select>
+							</div>
 
-	  <br/>
+							<div class="row col s12">
+								<label for="food">Any dietary restrictions?</label>
+								<input type="text" name="food" id="food" placeholder="Vegetarian, dairy allergy, etc." required="">
+							</div>
 
-          <a class="waves-effect waves-light deep-purple darken-3 btn start">Start</a>
-	  <h3 class="game-results"></h3>
+							<input type="hidden" name="_subject" id="email-subject" value="RSVP">
 
-      	</div>
-      </div>
-    </div>
+						</fieldset>
 
-  <script src="game.js"></script>
+						<br />
+
+						<input class="deep-purple darken-3 btn" type="submit" value="SUBMIT">
+
+					</form>
+
+				</div>
+			</div>
+
+
+
+
+			<div class="row center">
+				<image height=150 src="/assets/images/flowers/purple_flowers_square_1.png" />
+			</div>
+
+			<p>After RSVP-ing, please enjoy our homemade wedding game!</p>
+
+			<p>Use the arrow keys to collect the wedding rings.</p>
+
+			<h3 class="score"></h3>
+			<section class="snakeTable"></section>
+
+			<br />
+
+			<a class="waves-effect waves-light deep-purple darken-3 btn start">Start</a>
+			<h3 class="game-results"></h3>
+
+		</div>
+	</div>
+</div>
+
+<script src="game.js"></script>
 
 <?php
-require_once "footer.php";                
+require_once "footer.php";
 ?>
 
 </html>
