@@ -51,7 +51,7 @@ require_once "header.php";
 					</a>
 					<br />
 					<p>
-						We highly recommend our favorite local coffee shop, Intelligentsia! Not only is it where we first met #HingeDate, it's also continues to be our favorite source of local coffee grounds. Strong believers in DEI & ethically-sourced coffee.
+						We highly recommend our favorite semi-local coffee shop, Intelligentsia! Not only is it where we first met #HingeDate, it's also continues to be our favorite source of local coffee grounds. Strong believers in DEI & ethically-sourced coffee.
 					</p>
 				</div>
 			</div>
@@ -177,7 +177,7 @@ require_once "header.php";
 					</a>
 					<br />
 					<p>
-						We love SUSHI!
+						We love SUSHI! Sumo Sushi & Hibachi is one of our favorite local BYOB "special treat" restaurants. We enjoyed our post-engagement (& post-marathon) dinner at Sumo with Tim's dad. Be sure to tell the owner Helen we said hi!
 					</p>
 				</div>
 			</div>
@@ -193,7 +193,7 @@ require_once "header.php";
 					</a>
 					<br />
 					<p>
-						Yup it's a dive bar. This is where Tim's legs started shaking, so he finally asked if we could sit down to talk instead of walking another 4 miles.
+						Yup it's a dive bar. This is where Tim's legs started shaking on our second date, so he finally asked if we could sit down to talk instead of walking another 4 miles. Also a great place to spend St. Patrick's day with friends!
 					</p>
 				</div>
 				<div class="col m6 s12">

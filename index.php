@@ -17,7 +17,8 @@ require_once "header.php";
           <p><a href="https://www.stalphonsuschicago.org/">St. Alphonsus Catholic Church</a> | Chicago, IL</p>
         </span>
 
-        <p id="countdown"></p>
+	<p id="countdown"></p> 
+	<a href="rsvp.php" class="deep-purple darken-3 btn">RSVP</a>
       </div>
 
 

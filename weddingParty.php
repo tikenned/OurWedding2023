@@ -39,7 +39,7 @@ left side blurb, right side photo
                     <h3>Madelyn</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Bride</h5>
 		    <p>
-			Madelyn is a Notre Dame-loving, plant-growing, lemon-rice-soup-cooking young woman, and she is absolutely delighted to be marrying Tim! She works remotely as a backend software engineer, and leads the Safe Families for Children ministry at St. Alphonsus Church. Her favorite activities include biking around the city with Tim, maintaining a small city vegetable garden, and trying new foods (as long as they're not too spicy). She has two adorable cats, Obie and Kareem, and has successfully taught them a few tricks! 
+			Madelyn is a Notre Dame-loving, plant-growing, lemon-rice-soup-cooking young woman, and she is absolutely delighted to be marrying Tim! She works remotely as a backend software engineer, but definitely doesn't identify as a "tech-bro" or "gamer". Her favorite activities include biking around the city with Tim, maintaining a small city vegetable garden, and trying new foods (as long as they're not too spicy). She has two adorable cats, Obie and Kareem, and has successfully taught them a few tricks! 
                    </p>
                 </div>
               </div>

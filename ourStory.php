@@ -13,6 +13,7 @@ require_once "header.php";
 	<div class="col m8 offset-m2 s10 offset-s1">
 
 	  <h2 class="grey-text text-darken-3">Our Story</h2>
+<!--
 
     <h3 class="grey-text text-darken-3">Tim's Side</h3>
 
@@ -27,6 +28,7 @@ require_once "header.php";
     <p>I am so blessed to have her as my partner, and I cannot wait to spend the rest of our lives together. I think I’m finally ready to lose my virginity too, but we’ll leave the cloth draped over that story for now.</p>
 
       	</div>
+!-->
    
       </div>
     </div>

@@ -28,7 +28,8 @@ require_once "header.php";
         <h5 class="teal-text text-darken-4 wedding-date"><b>Hotel Versey</b></h5>
       </a>
       <ul>
-        <li>30 room hotel block "Nelson & Kennedy" - Kings and Doubles</li>
+        <li><a href="https://www.wyndhamhotels.com/days-inn/chicago-illinois/hotel-versey-days-inn-chicago/rooms-rates?brand_id=DI&hotel_id=06906&checkin_date=10/27/2023&checkout_date=10/29/2023&group_code=102723NEL">30 room hotel block "Nelson & Kennedy"</a> - Kings and Doubles</li>
+	<li>Block Code: 102723NEL</li>
         <li><a href="https://goo.gl/maps/p5xTv1AXLAXQir9r6">644 W Diversey Pkwy, Chicago, IL 60614</a></li>
         <li>Average cost: $179-$199/night</li>
         <li>(773) 525-7010</li>
@@ -36,6 +37,7 @@ require_once "header.php";
 
       <br />
 
+   <!--
       <a href="https://www.willowshotelchicago.com/">
         <img src="assets/images/hotels/willows_hotel_entrance.jpeg" width="50%" style="border-radius:20px"></img>
         <h5 class="teal-text text-darken-4 wedding-date"><b>Willows Hotel</b></h5>
@@ -46,6 +48,7 @@ require_once "header.php";
         <li>Average cost: $200/night</li>
         <li>(773) 528-8400</li>
       </ul>
+  -->
 
       <br />
 

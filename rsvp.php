@@ -7,9 +7,6 @@ require_once "header.php";
 <style>
 	<?php include 'assets/stylesheets/main.css'; ?>
 </style>
-<style>
-	<?php include 'assets/stylesheets/game.css'; ?>
-</style>
 
 
 <div class="section">
@@ -27,7 +24,7 @@ require_once "header.php";
 
 							<div class="row col s12">
 								<label for="full-name">Name(s)</label>
-								<input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+								<input type="text" id="full-name" placeholder="First and Last" required>
 							</div>
 
 							<div class="row col s12">
@@ -41,7 +38,7 @@ require_once "header.php";
 
 							<div class="row col s12">
 								<label for="food">Any dietary restrictions?</label>
-								<input type="text" name="food" id="food" placeholder="Vegetarian, dairy allergy, etc." required="">
+								<input type="text" name="food" id="food" placeholder="Vegetarian, dairy allergy, etc." required>
 							</div>
 
 							<input type="hidden" name="_subject" id="email-subject" value="RSVP">
@@ -57,30 +54,11 @@ require_once "header.php";
 				</div>
 			</div>
 
-
-
-
-			<div class="row center">
-				<image height=150 src="/assets/images/flowers/purple_flowers_square_1.png" />
-			</div>
-
-			<p>After RSVP-ing, please enjoy our homemade wedding game!</p>
-
-			<p>Use the arrow keys to collect the wedding rings.</p>
-
-			<h3 class="score"></h3>
-			<section class="snakeTable"></section>
-
-			<br />
-
-			<a class="waves-effect waves-light deep-purple darken-3 btn start">Start</a>
-			<h3 class="game-results"></h3>
-
 		</div>
 	</div>
 </div>
 
-<script src="game.js"></script>
+<script src="scripts.js"></script>
 
 <?php
 require_once "footer.php";
