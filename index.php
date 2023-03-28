@@ -1,9 +1,9 @@
-<html>
 <?php
-#$title = "Php Header Footer";   
-#require_once('protect-this.php');                
-require_once "header.php";              
+require_once('protect-this.php');
+require_once("header.php");
 ?>
+
+<html>
 <style><?php include 'assets/stylesheets/main.css'; ?></style>
 
   <body>
