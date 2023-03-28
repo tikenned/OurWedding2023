@@ -24,7 +24,7 @@ require_once "header.php";
 
 							<div class="row col s12">
 								<label for="full-name">Name(s)</label>
-								<input type="text" id="full-name" placeholder="First and Last" required>
+								<input type="text" name="names" id="full-name" placeholder="First and Last" required>
 							</div>
 
 							<div class="row col s12">
