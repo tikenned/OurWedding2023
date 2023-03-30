@@ -57,6 +57,7 @@
 	    <li><a class="dropdown-trigger" href="#!" data-target="dropdownlogistics">Logistics<i class="material-icons right">arrow_drop_down</i></a></li>
 	  </ul>
 	  <ul id="nav-mobile" class="right">
+		<li><a href="faq.php">FAQ</a></li>
 	    <li><a href="rsvp.php">RSVP</a></li>
 	    <li><a href="registry.php">Registry</a></li>
 	  </ul>

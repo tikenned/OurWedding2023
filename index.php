@@ -15,6 +15,7 @@ require_once("header.php");
           <h4 class="teal-text text-darken-4 wedding-date"><b>Saturday October 28, 2023</b></h4>
           <p>3 o'clock in the afternoon</p>
           <p><a href="https://www.stalphonsuschicago.org/">St. Alphonsus Catholic Church</a> | Chicago, IL</p>
+          <p>Dress code: <a hfref="https://www.brides.com/cocktail-attire-wedding-4844364">Cocktail Attire</a></p>
         </span>
 
 	<p id="countdown"></p> 

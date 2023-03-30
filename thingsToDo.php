@@ -344,7 +344,32 @@ require_once("header.php");
 
 
 			</div>
+		<div class="row center">
+			<h3 class="grey-text text-darken-3">In the City</h3>
+		</div>
+			<div class="row center">
+			<div class="col m8 offset-m2 s10 offset-s1">
 
+
+				<div class="row">
+					<div class="col m6 s12">
+						<a href="https://freetoursbyfoot.com/chicago-tours/book-chicago-tours/">
+							<img src="assets/images/things_to_do/FTBF-Logo.png" width="100%" style="border-radius:20px"></img>
+						</a>
+					</div>
+					<div class="col m6 s12">
+						<h5 class="teal-text text-darken-4 wedding-date"><b>Free Tours by Foot</b></h5>
+						<a href="https://goo.gl/maps/Kii9YsdqoR7fWWLV8">
+							<p>In the Loop (generally)</p>
+						</a>
+						<br />
+						<p>
+							Lions and tigers and bears OH MY
+						</p>
+					</div>
+				</div>
+
+				<br />
 		</div>
 	</div>
 
