@@ -17,6 +17,7 @@
 		  <li><a class="grey-text text-lighten-3" href="registry.php"><p>Registry</p></a></li>
 		  <li><a class="grey-text text-lighten-3" href="logistics.php"><p>Arrival & Lodging</p></a></li>
 		  <li><a class="grey-text text-lighten-3" href="game.php"><p>Wedding Game</p></a></li>
+		  <li><a class="grey-text text-lighten-3" href="faq.php"><p>FAQ</p></a></li>
 		</ul>
 
 	      </div>

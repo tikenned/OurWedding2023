@@ -25,7 +25,7 @@ require_once("header.php");
 
     <p>As I weaved this story, I finished on decisions I made. To the outside world, and especially to those who know me well, many decisions take time and thought to process completely and fully. While I applied such time and thought in all these periods, there was no usual agonizing or second guessing. There was only pure peace. Not a day since our trip had anything but that peace rested in my heart. I love Madelyn with every fibre of myself, more than I ever thought I could and enough to scare me. She resonates my soul with her spirituality, pushes me forward with her courageousness and ambition, and shares with me so many of the joyful things that I have in my life, from running to car-free city living to playing music at church together. </p>
 
-    <p>I am so blessed to have her as my partner, and I cannot wait to spend the rest of our lives together. I think I’m finally ready to lose my virginity too, but we’ll leave the cloth draped over that story for now.</p>
+    <p>I am so blessed to have her as my partner, and I cannot wait to spend the rest of our lives together.</p>
 
       	</div>
 !-->

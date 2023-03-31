@@ -45,6 +45,18 @@ require_once("header.php");
             <p>For our guests requiring mobility assistance, we're keeping track of your requests in your RSVP and will accomodate your needs as best as we can.</p>
           </div>
       </div>
+
+      <!-- other questions -->
+      <!-- 
+        can I bring my kids?
+        safety
+        mocktails
+        gifts outside registry, mail it to us
+        what should i do after the ceremony before the reception
+
+        danny and amanda: rsvp deadline, weather, accessibility, shoes
+
+      -->
   </body>
 
 <?php
