@@ -21,36 +21,67 @@ require_once("header.php");
               <image height=150 src="/assets/images/flowers/purple_flowers_square_2.png"/>
           </div>
 
-          <div class="col m5 offset-m1 s10 offset-s1">
+      <div class="row center">
+          <div class="col m6 s10 offset-s1">
             <h4 class="grey-text text-darken-3">What should I wear?</h4>
             <br />
-            <p>We are asking our guests to wear cocktail attire. Cocktail attire is higher in formality than business casual or semi-formal, but lower than black-tie or formal.</p>
+            <p>We are asking our guests to wear <b>cocktail attire</b>. Cocktail attire is higher in formality than business casual or semi-formal, but lower than black-tie or formal.</p>
             <p>Confused? Sometimes I am too, even though it's one of the most popular dress codes for weddings. If you're not sure what to wear, click below for advice and some examples:</p>
-             <div class="col s5 offset-s1">
-                <a href="https://www.gentlemansgazette.com/cocktail-attire-for-men/"><p class="grey-text text-darken-3">Men</p></a>
+             <div class="col s6">
+                <a href="https://www.gentlemansgazette.com/cocktail-attire-for-men/"><p>Cocktail Attire for Men</p></a>
              </div>
-             <div class="col s5 offset-s1">
-                <a href="https://www.instyle.com/cocktail-attire-wedding-guest-outfits-7095226"><p class="grey-text text-darken-3">Women</p></a>
+             <div class="col s6">
+                <a href="https://www.instyle.com/cocktail-attire-wedding-guest-outfits-7095226"><p>Cocktail Attire for Women</p></a>
              </div>
           </div>
 
-          <div class="col m5 s10 offset-s1">
-            <h4 class="grey-text text-darken-3">Do I need to drive?</h4>
+          <div class="col m6 s10 offset-s1">
+            <h4 class="grey-text text-darken-3">What shoes should I wear?</h4>
             <br />
-            <p>Driving into Chicago, finding parking, daily parking costs, and navigating traffic...<br>we've felt all these headaches so you don't have to.</p>
-            <p>On our logistics page, we've done our best to give a range of options for your arrival to not have to drive into the city. 
-                Whether near or far, we have navigated through every major airport and train station, and we're passing our expert knowledge to you.</p>
-            <p>After you arrive, the city's public transit and rideshares can get you wherever you need to go without too long a delay or cost - definitely less than the price tag on getting a car around!</p>
-            <p>We've also worked hard to keep all our main locales within ten to fifteen minutes walking distance, not only for your convenience but for you to enjoy our neighborhood the same as we do.</p>
-            <p>For our guests requiring mobility assistance, we're keeping track of your requests in your RSVP and will accomodate your needs as best as we can.</p>
+	    <p>Most of our guests will walk (or take the CTA bus) between our ceremony and reception (1/2 mile). So we recommend that you wear (or bring) shoes that are comfortable for walking.</p> 
           </div>
+      </div>
+
+      <div class="row center">
+          <div class="col m6 s10 offset-s1">
+            <h4 class="grey-text text-darken-3">Do I need to drive in the city?</h4>
+            <br />
+	    <p>No you do not! In fact, we strongly recommend NOT driving in the city. Driving in the city is tricky, time-consuming, slow, and really expensive.</p> 
+	    <p>After you arrive in the city, we recommend riding the CTA, walking, and/or biking between locations. All are faster, cheaper, less stressful, and more fun than driving! For your convenience, we've intentionally chosen our main event locales to all be within fifteen minutes walking distance of each other. We hope you enjoy our neighborhood as much as we do!</p> 
+	    <!--
+            <p>On our logistics page, we've done our best to give a range of options for your arrival to not have to drive into the city. 
+                Whether near or far, we have navigated through every major airport and train station, and we're passing our expert local knowledge to you.</p>
+            <p>For our guests requiring mobility assistance, we're keeping track of your requests in your RSVP and will accomodate your needs as best as we can.</p>
+	    -->
+          </div>
+
+          <div class="col m6 s10 offset-s1">
+            <h4 class="grey-text text-darken-3">Can I bring my kids?</h4>
+            <br />
+	    <p>We love ALL of your kids! Only kids that have a role in the ceremony are welcome at our reception. Thank you for understanding!</p> 
+          </div>
+      </div>
+
+      <div class="row center">
+          <div class="col m6 s10 offset-s1">
+            <h4 class="grey-text text-darken-3">Will there be mocktails (non-alcoholic drinks) available?</h4>
+            <br />
+	    <p>Yes of course! We can't wait for you to enjoy our signature mocktail creations.</p> 
+          </div>
+
+          <div class="col m6 s10 offset-s1">
+            <h4 class="grey-text text-darken-3">Is the Lakeview neighborhood safe?</h4>
+            <br />
+	    <p>Yes, Lakeview is very safe. As with any city, we recommend the buddy-system.</p> 
+          </div>
+      </div>
+
+
       </div>
 
       <!-- other questions -->
       <!-- 
-        can I bring my kids?
         safety
-        mocktails
         gifts outside registry, mail it to us
         what should i do after the ceremony before the reception
 

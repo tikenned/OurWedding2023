@@ -48,7 +48,7 @@ left side blurb, right side photo
 	    <div class="col m5 s10 offset-s1" style="border-left: 1px solid black;">
 		<div class="row center">
 		  <div class="col s10 offset-s1">
-		    <img style="border-radius: 50%;" src="https://picsum.photos/200"/>
+		    <img style="border-radius: 50%;" src="/assets/images/bridal_party/timothy_kennedy_headshot.jpeg" height=200>
                     <h3>Timothy</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Groom</h5>
 		    <p>

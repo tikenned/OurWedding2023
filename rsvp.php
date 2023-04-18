@@ -38,7 +38,12 @@ require_once("header.php");
 
 							<div class="row col s12">
 								<label for="food">Any dietary restrictions?</label>
-								<input type="text" name="food" id="food" placeholder="Vegetarian, dairy allergy, etc." required>
+								<input type="text" name="food" id="food" placeholder="Vegetarian, dairy allergy, etc.">
+							</div>
+
+							<div class="row col s12">
+								<label for="mobility">Any mobility accommodations?</label>
+								<input type="text" name="mobility" id="mobility" placeholder="Will use elevator, requires handicapped parking spot, etc.">
 							</div>
 
 							<input type="hidden" name="_subject" id="email-subject" value="RSVP">
