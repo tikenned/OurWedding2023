@@ -37,6 +37,11 @@ require_once("header.php");
 							</div>
 
 							<div class="row col s12">
+								<label for="email">Email (for any announcements)</label>
+								<input type="text" name="email" id="email" placeholder="youremail@nd.edu">
+							</div>
+
+							<div class="row col s12">
 								<label for="food">Any dietary restrictions?</label>
 								<input type="text" name="food" id="food" placeholder="Vegetarian, dairy allergy, etc.">
 							</div>

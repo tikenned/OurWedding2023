@@ -16,11 +16,12 @@ require_once("header.php");
 
 				<br><script id='script_myregistry_giftlist_iframe' type='text/javascript' src='//www.myregistry.com//Visitors/GiftList/iFrames/EmbedRegistry.ashx?r=0iDTftTlH1ZeU6cxiZ80LQ2&v=2'></script>
 
-				<p>If you'd instead like to contribute to our 2023 Chicago Marathon fundraising for <a href="https://www.missionola.com/">Mission of Our Lady of the Angels food pantry</a>, please feel free :)</p>
-
-			</div>
 			<div class="row center">
 				<image height=150 src="/assets/images/flowers/purple_flowers_square_2.png" />
+			</div>
+
+				<p>If you'd instead like to contribute to our 2023 Chicago Marathon fundraising for <a href="https://www.missionola.com/">Mission of Our Lady of the Angels food pantry</a>, please feel free :)</p>
+
 			</div>
 		</div>
 		<div class="row center">
