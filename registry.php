@@ -14,9 +14,9 @@ require_once("header.php");
 		<div class="row center">
 			<div class="col m8 offset-m2 s10 offset-s1">
 
-				<h3 class="grey-text text-darken-3">We're still working on our registry</h3>
+				<br><script id='script_myregistry_giftlist_iframe' type='text/javascript' src='//www.myregistry.com//Visitors/GiftList/iFrames/EmbedRegistry.ashx?r=0iDTftTlH1ZeU6cxiZ80LQ2&v=2'></script>
 
-				<p>In the meantime, if you'd like to contribute to our 2023 Chicago Marathon fundraising for <a href="https://www.missionola.com/">Mission of Our Lady of the Angels food pantry</a>, please feel free :)</p>
+				<p>If you'd instead like to contribute to our 2023 Chicago Marathon fundraising for <a href="https://www.missionola.com/">Mission of Our Lady of the Angels food pantry</a>, please feel free :)</p>
 
 			</div>
 			<div class="row center">
