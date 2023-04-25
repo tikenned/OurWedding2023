@@ -42,7 +42,7 @@ require_once("header.php");
         <h5 class="teal-text text-darken-4 wedding-date"><b>The Willows Hotel</b></h5>
       </a>
       <ul>
-        <li>(No formal hotel block, but we recommend the location)</li>
+        <li>Call and mention "Madelyn & Timothy for a 15% discount!</li>
         <li><a href="https://goo.gl/maps/qmQQHyxxSE2bkq5f6">555 W Surf St, Chicago, IL 60657</a></li>
         <li>Average cost: $245-$255/night</li>
         <li>(773) 528-8400</li>
