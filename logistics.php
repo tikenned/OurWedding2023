@@ -37,18 +37,16 @@ require_once("header.php");
 
       <br />
 
-   <!--
       <a href="https://www.willowshotelchicago.com/">
         <img src="assets/images/hotels/willows_hotel_entrance.jpeg" width="50%" style="border-radius:20px"></img>
-        <h5 class="teal-text text-darken-4 wedding-date"><b>Willows Hotel</b></h5>
+        <h5 class="teal-text text-darken-4 wedding-date"><b>The Willows Hotel</b></h5>
       </a>
       <ul>
-        <li>30 room hotel block "Nelson & Kennedy" - Kings and Doubles</li>
+        <li>(No formal hotel block, but we recommend the location)</li>
         <li><a href="https://goo.gl/maps/qmQQHyxxSE2bkq5f6">555 W Surf St, Chicago, IL 60657</a></li>
-        <li>Average cost: $200/night</li>
+        <li>Average cost: $245-$255/night</li>
         <li>(773) 528-8400</li>
       </ul>
-  -->
 
       <br />
 
