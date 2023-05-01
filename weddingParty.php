@@ -17,8 +17,9 @@ left side blurb, right side photo
 
     <div class="section">
         <div class="row center">
+			<h1>Our Bridal Party</h1>
 	    <br/>
-	    <div class="col s8 offset-s2">
+	    <div class="col s6 offset-s3">
 	        <p>
 		Meet the family and friends who have been there with us from our early days as a couple, and who we will have close by our side during our big day (and beyond)!
 	        </p>
@@ -46,6 +47,7 @@ left side blurb, right side photo
             </div>
 
 	    <div class="col m5 s10 offset-s1" style="border-left: 1px solid black;">
+
 		<div class="row center">
 		  <div class="col s10 offset-s1">
 		    <img style="border-radius: 50%;" src="/assets/images/bridal_party/timothy_kennedy_headshot.jpeg" height=200>
@@ -85,13 +87,14 @@ Dr. Alexandria (Alex) Viegut has been Madelyn's best friend since meeting freshm
 	    <div class="col m5 s10 offset-s1" style="border-left: 1px solid black;">
 		<div class="row center">
 		  <div class="col s10 offset-s1">
-		    <img style="border-radius: 50%;" src="https://picsum.photos/200"/>
+		    <img style="border-radius: 60%;" src="/assets/images/bridal_party/connorClaire.jpg" height=200>
                     <h3>Connor</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Best Man</h5>
 		    <p>
-                   Tim met Connor when starting as a freshman at Powers Catholic High School. Even then, he was self-aware enough to recognize that while he himself was pretty dorky, the kid with the dark hair and big words sitting dead-center front row for all the classes was a Grade-A nerd. After a consideration of competing against him, he figured that if he was going to be successful, he should stick around the most quality people he could find (this is true for all of Tim’s friends).
+                   I met Connor when starting as a freshman at Powers Catholic High School. Even then, I was self-aware enough to recognize that while I myself was pretty dorky, the kid with the dark hair and big words sitting dead-center front row for all the classes was a Grade-A nerd. After considerating competing against Connor, I figured that if I was going to be successful, I should instead stick around the most quality people I could find (this is true for all of my friends).
 				   </p>
-					<p>From sleepovers, to exchanges of ideas (growing from heated midnight text exchanges to snarky tweets to genuine discourse), to a shared love of the truly stupid, Connor has cemented himself as a permanent fixture in my life. I am inspired by his drive coupled with incredible strategy. When Connor forms a goal, he is not only tenacious about seeing it through, but applies himself to know exactly how to get there and sticks to it.
+					<p>From sleepovers, to exchanges of ideas (growing from heated midnight text exchanges to snarky tweets to genuine discourse), to a shared love of the truly stupid, Connor has cemented himself as a permanent fixture in my life. I am inspired by his drive coupled with incredible strategy. When Connor forms a goal, he is not only tenacious about seeing it through, but is wise enough to consider 4 steps ahead. He is a man who can truly do anything he sets his mind to accomplish; who would not be inspired by that?</p>
+					<p>I have loved watching him fall for Claire, who is not only his equal in matters both physical and mental, but is his one true match.
 </p>
                 </div>
               </div>
@@ -113,13 +116,14 @@ Nicole has been a close friend of Madelyn since meeting in Badin Hall freshman y
 	    <div class="col m5 s10 offset-s1" style="border-left: 1px solid black;">
 		<div class="row center">
 		  <div class="col s10 offset-s1">
-		    <img style="border-radius: 50%;" src="https://picsum.photos/200"/>
+		    <img style="border-radius: 60%;" src="/assets/images/bridal_party/mattElisabeth.jpg" height=200>
                     <h3>Matt</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Groomsman</h5>
 		    <p>
-                   Tim met Matt during summer cross country conditioning before starting high school. At the time Tim was known as “Floppy Hair Kid” because of his blown-dry-do. Together with his extra strength sunglasses and penchant for burning out after trying to run with varsity for about 3 minutes, he was a certified dork and as such had a chip on his shoulder for the guy who was effortlessly keeping up with the big dogs at the track. He figured it was far smarter to train the way Matt trained, so be friends with him. The crossover with 5 out of 7 classes was the deal sealer. </p>
+                   I met Matt during summer cross country conditioning before starting high school. At the time I was known as “Floppy Hair Kid” because of his blown-dry-do. Together with his extra strength sunglasses and penchant for burning out after trying to run with varsity for about 3 minutes, he was a certified dork and as such had a chip on his shoulder for the guy who was effortlessly keeping up with the big dogs at the track. He figured it was far smarter to train the way Matt trained, so be friends with him. The crossover with 5 out of 7 classes was the deal sealer. </p>
 
-<p>A late transfer to Michigan left Tim afraid of connecting with his friend after they each formed some new tribes, but thankfully after a year he got over it and started hanging out again. Despite Tim's performance as an excellent character witness to the United States Government (I lost my medal but trust me), Matt was detained from his next career step for a short time. That fourtunately meant an opportunity to catch up on quality time, a true gift from God. Matt’s commitment to everything is a triumph, keeping himself moving through every struggle. Tim is particularly impressed in Matt's committment to his running game, and cardiovascular system with the strength to pump water from a well. It inspires Tim to push harder than just logging miles to log them.
+<p>A late transfer to Michigan left me afraid of connecting with my friend after they each formed some new tribes, but thankfully after a year I got over it and we started hanging out again. Despite my performance as an excellent character witness to the United States Government (I lost my medal but trust me), Matt was detained from his next career step for a short time. That fourtunately meant an opportunity to catch up on quality time, a true gift from God. Matt’s commitment to everything is a triumph, keeping himself moving through every struggle. I am particularly impressed in Matt's committment to his running game, and cardiovascular system with the strength to pump water from a well. It inspires me to not log miles to check a box.</p>
+<p>I am absolutely thrilled he has found Elisabeth, a woman who sees Matt exactly as he is - one of the coolest guys ever.
 </p>
                 </div>
               </div>
@@ -134,9 +138,10 @@ Nicole has been a close friend of Madelyn since meeting in Badin Hall freshman y
 		    <p>
 Erica is Tim's younger sister by 18 months, and is quickly becoming like a sister to Madelyn. Erica is incredibly musically talented, and is pursuing a career as a Broadway singer in New York City. Always entrepreneurial and passionate about wellness, Erica also teaches group fitness classes with a focus on self-empowerment. Erica's favorite activities include performing on stage, making french-press coffee, and shopping for the most glamorous dresses.</p>
 
-<p>Ok that was Madelyn's take on Erica. Here's Tim's:</p>
+<hr>
+<p>Ok that was Madelyn's take on Erica. <i>Here's Tim's:</i></p>
 
-<p>Erica is Tim's younger sister and has always been a pain in the ass but he loves her anyway. Erica is a triple threat, a performer highly skilled at acting, singing, and dancing, consistently a key component to the success and entertainment of any show she is cast in. While Tim inheirited the sarcasm of the family, Erica lucked onto the goof genes. Her synergy with the silly and charisma provides her the gift of getting along with anyone she meets. Loyal, ambitious, and imaginative, she is always striving for her goals and is not afraid to pivot and hustle to accomplish what she sets her eyes on.</p>
+<p>Erica is my younger sister and has always been a pain in the ass but he loves her anyway. Erica is a triple threat, a performer highly skilled at acting, singing, and dancing, consistently a key component to the success and entertainment of any show she is cast in. While I inheirited the sarcasm of the family, Erica lucked onto the goof genes. Her synergy with silly and charisma provides her the gift of getting along with anyone she meets. Loyal, ambitious, and imaginative, she is always striving for her goals and is not afraid to pivot and hustle to accomplish what she sets her eyes on.</p>
                    </p>
                 </div>
               </div>
@@ -145,13 +150,14 @@ Erica is Tim's younger sister by 18 months, and is quickly becoming like a siste
 	    <div class="col m5 s10 offset-s1" style="border-left: 1px solid black;">
 		<div class="row center">
 		  <div class="col s10 offset-s1">
-		    <img style="border-radius: 50%;" src="https://picsum.photos/200"/>
+		    <img style="border-radius: 60%;" src="/assets/images/bridal_party/justinKenzie.jpg" height=200>
                     <h3>Justin</h3>
 		    <h5 class="teal-text text-darken-4 bridal-party-role">Groomsman</h5>
 		    <p>
-                   Tim met Justin when he started high school, but was nowhere NEAR cool enough to sit with the lanky, Justin Bieber (circa 2009) styled, easy-gabbing group that was the Powers Catholic soccer team. It wasn’t until the first years of college at UM-Flint that Tim worked with Justin on his physics homework. He noticed how hard Justin was working, and acing material that I was dropping. Rather than hold onto wounded pride, he decided to study with him regularly and improve as much as he could. When he said he wanted to find a place together in Ann Arbor when we transferred down, I figured I could keep going with it.</p>
+                   I met Justin when I started high school, but was nowhere NEAR cool enough to sit with him. He was among the high ranks of the lanky, Justin Bieber (circa 2009) styled, easy-gabbing group that comprised the Powers Catholic soccer team. It wasn’t until the first years of college at UM-Flint that I worked with Justin on our shared physics homework. I noticed how hard Justin was working while acing material that I was dropping. Rather than hold onto wounded pride, I decided to study with him regularly and improve as much as I could. When Justin said he wanted to find a place together in Ann Arbor when we transferred down, I knew I had found a quality housemate.</p>
 
-<p>This living together was transformative. Through pasta sauce splats on the fridge, rough semesters, a terrible roommate, multiple failed girlfriends, several subleases over the summers, he was the most steadfast partner through the years. Even more of a homebody than Tim, I ironically became the party-maker to take him out of the house, making him step outside the comfort zone and become outgoing. This allowed me to develop in a way continuing to the present day. After Justin’s own wedding, I couldn’t wait to find the right one for me.
+<p>Our 4 years of time together in our Soviet-esqe concrete apartment tower, lovingly titled "The Gulag", was transformative. Through pasta sauce splats on the fridge, rough semesters, a terrible roommate, multiple failed girlfriends (all mine), and several subleases over the summers, he was the most steadfast partner I could ask for. Surprisingly, Justin was more of a homebody than me. I ironically became the party-maker to take him out of the house, making him step outside the comfort zone, and in doing so became more outgoing myself. This allowed me to develop in ways I never anticipated - and charting an excellent course for how my life has been ever since.</p>
+<p> After Justin’s own wedding last year, I especially couldn’t wait to find the love he has shared with McKenzie every day for the past 14 years.
 </p>
                 </div>
               </div>
@@ -159,6 +165,15 @@ Erica is Tim's younger sister by 18 months, and is quickly becoming like a siste
 
         </div>
     </div>
+	<div class="row center">
+            <image height=150 src="/assets/images/flowers/purple_flowers_long_2.png"/>
+        </div>
+	<div class="section">
+		 <div class="row center">
+		<h5>Thanks for only the greatest times, gang</h5>
+		<img style="border-radius: 90%;" src="/assets/images/bridal_party/cruFourthDrunk.jpg" height=600>
+		 </div>
+	</div>
 
     
      

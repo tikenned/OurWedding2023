@@ -36,6 +36,10 @@ body {
 }
 ol, ul {
 	list-style: none;
+	
+}
+li {
+	list-style-type: disc !important;
 }
 blockquote, q {
 	quotes: none;
@@ -109,8 +113,8 @@ h1 {
 }
 p {
 	color: darkmagenta;
-	/*font-size: 20px;*/
-}
+	/*font-size: 20px;
+}*/
 .excited {
 	color: darkgreen;
 	font-size: 24px;
@@ -120,7 +124,7 @@ p {
 	color: black;
 	font-size: 22px;
 }
-*/
+
 
 /*break*/
 
