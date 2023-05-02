@@ -20,6 +20,9 @@ require_once("header.php");
 
 	<p id="countdown"></p> 
 	<a href="rsvp.php" class="deep-purple darken-3 btn">RSVP</a>
+  <a href="faq.php" class="teal darken-4 btn">FAQ</a>
+  <a href="https://www.wyndhamhotels.com/days-inn/chicago-illinois/hotel-versey-days-inn-chicago/rooms-rates?brand_id=DI&hotel_id=06906&checkin_date=10/27/2023&checkout_date=10/29/2023&group_code=102723NEL" class="deep-purple darken-4 btn">Reserve in our Block @ Hotel Versey</a>
+  
       </div>
 
 

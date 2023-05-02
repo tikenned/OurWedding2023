@@ -39,7 +39,7 @@ ol, ul {
 	
 }
 li {
-	list-style-type: disc !important;
+	font-family: 'MetropolitanoRegular', Calibri, Trebuchet, sans-serif;
 }
 blockquote, q {
 	quotes: none;
