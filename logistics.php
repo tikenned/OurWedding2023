@@ -11,20 +11,22 @@ require_once("header.php");
 
 <div class="section">
   <div class="row center">
-    <div class="col m8 offset-m2 s10 offset-s1">
+    <div class="col s10 offset-s1">
 
       <h3 class="grey-text text-darken-3">Arrival & Lodging</h3>
       <p>We can't wait to celebrate with you!</p>
-
-      <br />
 
       <div class="row center">
         <image height=150 src="/assets/images/flowers/purple_flowers_square_2.png" />
       </div>
 
       <h4 class="grey-text text-darken-3">Lodging</h4>
+      <br/>
+
+       <div class="col m6 s12">
+
       <a href="https://www.hotelversey.com/">
-        <img src="assets/images/hotels/hotel_versey_room.jpeg" width="50%" style="border-radius:20px"></img>
+        <img src="assets/images/hotels/hotel_versey_room.jpeg" width="100%" style="border-radius:20px"></img>
         <h5 class="teal-text text-darken-4 wedding-date"><b>Hotel Versey</b></h5>
       </a>
       <ul>
@@ -35,26 +37,38 @@ require_once("header.php");
         <li>(773) 525-7010</li>
       </ul>
 
-      <br />
+       </div>
+       <div class="col m6 s12">
 
       <a href="https://www.willowshotelchicago.com/">
-        <img src="assets/images/hotels/willows_hotel_entrance.jpeg" width="50%" style="border-radius:20px"></img>
+        <img src="assets/images/hotels/willows_hotel_entrance.jpeg" width="100%" style="border-radius:20px"></img>
         <h5 class="teal-text text-darken-4 wedding-date"><b>The Willows Hotel</b></h5>
       </a>
       <ul>
-        <li>Call and mention "Madelyn & Timothy for a 15% discount!</li>
+        <li>Call and mention "Madelyn & Timothy" for a 15% discount!</li>
         <li><a href="https://goo.gl/maps/qmQQHyxxSE2bkq5f6">555 W Surf St, Chicago, IL 60657</a></li>
         <li>Average cost: $245-$255/night</li>
         <li>(773) 528-8400</li>
       </ul>
 
+      </div>
+      </div>
+      
       <br />
 
+      <!--
       <div class="row center">
         <image height=150 src="/assets/images/flowers/purple_flowers_square_1.png" />
       </div>
 
-    </div>
+      <h4 class="grey-text text-darken-3">Arrival</h4>
+
+      <p>Whether you come from near or far, we are looking forward to welcoming you into Chicago.</p>
+      <p>We know many of you will be traveling, so to make your journey a smooth one, we want to help you arrive easily and safely.</p> 
+      -->
+
+
+
   </div>
 
 </div>

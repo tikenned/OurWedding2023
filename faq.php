@@ -50,7 +50,7 @@ require_once("header.php");
             <h4 class="grey-text text-darken-3">Do I need to drive in the city?</h4>
             <br />
 	        <h5><b>No you do not!</b></h5>
-          <p>In fact, we strongly recommend NOT driving in the city. Driving in the city is tricky, time-consuming, slow, and expensive ... we've felt all these headaches ourselves, we feel you shouldn't.</p>
+          <p>In fact, we strongly recommend NOT driving in the city. Driving in the city is tricky, time-consuming, slow, and expensive... we've felt all these headaches ourselves, we feel you shouldn't.</p>
           
           <p>On our logistics page, we've done our best to give a range of options for your arrival to not have to drive into the city. We have navigated through every major airport and train station at some point, and we're passing our expert knowledge to you.</p>
             <p>After your arrival, the city's public transit and rideshares can get you wherever you need to go without too long a delay or cost - definitely less than the price tag of getting a car around!</p>
@@ -64,7 +64,7 @@ require_once("header.php");
           <!--div class="col m6 s10 offset-s1"!-->
             <h4 class="grey-text text-darken-3">Can I bring my kids?</h4>
             <br />
-            <h5>We LOVE your kids - and would be happy to have them be part of our special day.</h5>
+            <h5><b>Yes!</b> We would be happy to have them be part of our special day.</h5>
             <p>Please keep in mind the following if your young ones may be joining us:</p>
             <div class="row center">
             <ul>
@@ -100,7 +100,7 @@ require_once("header.php");
           <!--div class="col m6 s10 offset-s1"!-->
             <h4 class="grey-text text-darken-3">Is Chicago safe? </h4>
             <br />
-      <h5>Here's our short answer. <b>You're going to have a very safe, very fun time with us.</b></h5>
+      <h5>Here's our short answer: <b>You're going to have a very safe, very fun time with us.</b></h5>
       <p>Our wedding is held in Lakeview, a neighborhood with crime rates 40% lower than the rest of the city. It is heavily residential, highly trafficked, and with proactive Chambers of Commerce who prioritize safety along commercial corridors and transit points.</p> 
       <p>We offer the same advice as we would for any major city: play it smart. Don't go wandering unlit streets between 1am and 5am. Keep company, either physically with you or on the phone. Don't let yourself be solicited.</p> 
       <hr>
