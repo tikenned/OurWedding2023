@@ -56,7 +56,10 @@ require_once("header.php");
 			</a>
 			<p>Dinner & Dancing</p>
 			<p>6:00pm - 11:00pm</p>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11870.253227060708!2d-87.64824635!3d41.945234250000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd3ab4393d9e1%3A0xa269ceaba6687b72!2sChicago%20Theater%20Works!5e0!3m2!1sen!2sus!4v1674443654374!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+			<br/>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1FEF1GvIuxVgqAxWqWVpEfHDdDNDw3PQ&ehbc=2E312F" width="640" height="480"></iframe>
 
 		</div>
 	</div>

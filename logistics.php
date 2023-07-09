@@ -52,6 +52,10 @@ require_once("header.php");
       </ul>
 
       </div>
+
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1FEF1GvIuxVgqAxWqWVpEfHDdDNDw3PQ&ehbc=2E312F" width="640" height="480"></iframe>
+
       </div>
       
       <br />
