@@ -36,8 +36,7 @@ require_once("header.php");
 			<a href="https://goo.gl/maps/h1tzjfFEPVb37iLNA">
 				<p>1429 W Wellington Ave, Chicago IL 60657</p>
 			</a>
-			<p>Nuptial Mass</p>
-			<p>3:00pm - 4:30pm</p>
+			<p>Nuptial Mass: 3:00pm - 4:30pm</p>
 
 			<br />
 			<br />
@@ -54,8 +53,8 @@ require_once("header.php");
 			<a href="https://goo.gl/maps/zgbzTjqGuQarQDA1A">
 				<p>1113 W Belmont Ave, Chicago, IL 60657</p>
 			</a>
-			<p>Dinner & Dancing</p>
-			<p>6:00pm - 11:00pm</p>
+			<p>Cocktail Hour: 5:00pm - 6:00pm</p>
+			<p>Dinner & Dancing: 6:00pm - 11:00pm</p>
 
 			<br/>
 

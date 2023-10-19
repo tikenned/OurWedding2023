@@ -31,11 +31,33 @@ require_once("header.php");
 
     <p>I am so blessed to have her as my partner, and I cannot wait to spend the rest of our lives together.</p>
 
+
+    <h3 class="grey-text text-darken-3">Madelyn's Side</h3>
+
+	  <p>
+After many years searching for the right person in Chicago (and what felt like hundreds of first dates via different apps and groups), a brand new name popped up on my Hinge app - “Timothy K”. And his profile was extremely impressive - a man who was Catholic, AND progressive, AND my age, AND a runner, AND musically talented, AND has a job in STEM? As you might guess, I was very surprised that he wasn’t already taken, and did not hesitate to swipe right and give it a shot.
+</p>
+<p>
+On our first date at a local coffee shop (see the wedding map if you want to go there yourself), I intentionally offered to pay in order to test how comfortable he was around a strong, confident, financially independent woman… and what do you know? He passed the test! I paid for our lattes, his masculinity was not harmed, and from that point on it was smooth sailing.
+</p>
+<p>
+By the end of our second date, I knew he was the one. Our relationship was easy and natural. It felt “right”, and different than any other past relationship. Just to be safe though, I didn’t tell him that I knew he was the one until a few months later - I didn’t want to come off too strong too early!
+</p>
+<p>
+Fast forward a couple months, and both of our respective friend groups were understandably concerned about our trip to Europe so early into our relationship - but by that point, we both knew that this was going to last. I figured that in the absolute worst case, a trip to Europe by myself wouldn’t be so bad. And after all, how often does a fully-paid-by-work trip to Europe come along in life? 
+</p>
+<p>
+Tim is the one. I am so thrilled to marry him! Counting down the days until I become Mrs. Kennedy!
+</p>
+
+
       	</div>
 
    
       </div>
     </div>
+
+
        <div class="row center">
     <image height=150 src="/assets/images/flowers/purple_flowers_square_2.png"/>
       </div>
